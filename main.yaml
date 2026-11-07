@@ -3,6 +3,5 @@
   connection: localhost
   include_role:
   #import_role:
-  connection: localhost
   roles:
   - role-1
