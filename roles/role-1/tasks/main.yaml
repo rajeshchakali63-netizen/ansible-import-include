@@ -3,3 +3,8 @@
   import_role:
     name: common
   when: OS == "RedHat"
+  tags:
+  - hi
+  loop:
+  - Ramesh
+  - Suresh
