@@ -1,5 +1,6 @@
 - name: include-vs-import
   hosts: localhost
+  connection: localhost
   include_role:
   #import_role:
   connection: localhost
